@@ -1,6 +1,6 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
+  title:        "Takagotch tkvtv"
   subtitle:     "Modern Jekyll based blog for companies"
   cover_image:  blog-cover.jpg
   logo:         logo.png
@@ -8,8 +8,8 @@ inc:
   # Company information
   company:      Incorporated
   url:          https://takagotch.github.io/page31
-  facebook:     sendtoinc
-  twitter:      sendtoinc
+  facebook:     takagotch
+  twitter:      takagotch
   gplus:        '101183822199340201470'
   about_link:   https://takagotch.github.io/page31/about/
   
@@ -41,7 +41,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         https://takagotch.github.io/page31/
+url:         https://takagotch.github.io/page31
 source:      .
 destination: ./_site
 plugins:     ./_plugins
